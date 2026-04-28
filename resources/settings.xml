@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <category label="Moonlight">
+        <setting id="host" type="text" label="Host (name or IP)" default="steamdeck"/>
+        <setting id="app" type="text" label="App / Game" default="Desktop"/>
+    </category>
+</settings>
